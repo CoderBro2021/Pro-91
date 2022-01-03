@@ -1,0 +1,19 @@
+body{
+    color: rgba(240, 255, 25, 0.966);
+    background-color:rgb(106, 230, 106);
+}
+#welcome {
+    bottom: 0;
+    background-image:url("math.png");
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+.container{
+    background-color: #FFFFFF;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+    border-style: ridge;
+}
